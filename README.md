@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Enthusiast in system development (back-end/front-end), student at Universidade Presbiteriana Mackenzie. I am currently seeking a trainee, internship, or junior position in web development (front-end/back-end/full-stack) or quality engineering. I am passionate about technology and always looking to expand my knowledge.<br><br>- Java/Python Developer<br>- Bachelor student at Universidade Presbiteriana Mackenzie<br>- QA intern at @C6Bank</p>
+<p align="left">Enthusiast in system development (back-end/front-end), student at Universidade Presbiteriana Mackenzie. I am currently seeking a trainee, internship, or junior position in web development (front-end/back-end/full-stack). I am passionate about technology and always looking to expand my knowledge.<br><br>- Java/Python Developer<br>- Bachelor student at Universidade Presbiteriana Mackenzie<br>- QA intern at @C6Bank</p>
 
 ###
 
